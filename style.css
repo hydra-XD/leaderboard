@@ -19,6 +19,10 @@ tr:nth-child(even) {
   background-color: #e6e5e5;
 }
 
+.text-center{
+  text-align: center;
+}
+
 tr:hover {background-color: #D6EEEE;}
 
 .center {
@@ -29,9 +33,6 @@ tr:hover {background-color: #D6EEEE;}
 body {
   font-family: "Courier New", monospace;
 }
-
-
-{box-sizing: border-box;}
 
 /* Button used to open the contact form - fixed at the bottom of the page */
 .open-button {
